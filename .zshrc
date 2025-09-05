@@ -13,6 +13,7 @@ export PATH
 # export SYSTEMD_PAGER=
 
 # Aliases
+alias connectbluetooth=r"chmod +x ~/.config/scripts/connectbluetooth.sh && ~/.config/scripts/connectbluetooth.sh"
 alias connectwifi="chmod +x ~/.config/scripts/connectwifi.sh && ~/.config/scripts/connectwifi.sh"
 alias changekernel="chmod +x ~/.config/scripts/changekernel.sh && ~/.config/scripts/changekernel.sh"
 alias ff="fastfetch"
