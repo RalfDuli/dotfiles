@@ -11,9 +11,9 @@
 - Kitty
 - Docker
 - nmtui
+- dunst
 - Zed
 
-cp .config/Code/User/settings.json ~/.config/Code/User/settings.json
 ### Install these fonts:
 - [Libertinus](https://github.com/alerque/libertinus?tab=readme-ov-file)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
