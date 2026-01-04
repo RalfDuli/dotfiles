@@ -11,6 +11,7 @@
 - Kitty
 - Docker
 - nmtui
+- Zed
 
 cp .config/Code/User/settings.json ~/.config/Code/User/settings.json
 ### Install these fonts:
