@@ -27,9 +27,5 @@ unset rc
 
 source .aliases
 
-# Temporary aliases
-alias tcdvpn="sudo tailscale  login  --login-server   https://vpn-student.scss.tcd.ie --accept-routes"
-alias pirates="ssh -i .ssh/id_ed25519 root@167.71.36.57"
-
 # Startup processes
 fastfetch

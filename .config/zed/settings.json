@@ -44,7 +44,7 @@
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "Snazzy Theme",
+    "dark": "One Dark",
   },
   "jupyter": {
     "kernel_selections": {

@@ -8,7 +8,7 @@ hl.monitor({
 local terminal    = "kitty"
 local fileManager = "dolphin"
 local menu        = "wofi --show drun"
-local browser     = "zen-browser"
+local browser     = "flatpak run app.zen_browser.zen"
 local codeEditor  = os.getenv("HOME") .. "/.local/bin/zed"
 local notes       = "flatpak run md.obsidian.Obsidian " .. os.getenv("HOME") .. "/Desktop/obsidian"
 
@@ -102,7 +102,6 @@ hl.animation({ leaf = "workspacesOut", enabled = true, speed = 1.0,  bezier = "a
 
 hl.config({
     dwindle = {
-        pseudotile     = true,
         preserve_split = true,
     },
 
